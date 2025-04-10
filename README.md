@@ -1,1 +1,2 @@
 # Correlation-Analysis-Between-Historic-and-Current-Stocks
+This project analyzed trends in percent daily change in stock prices for 30 NYSE listed companies. The analysis included fetching the publicly available stock prices data into Python Jupyter notebook and using Pandas, Numpy, and scikit-learn library to run a regression analysis to gather insights into the stock prices and finding correlations between different stocks. The findings were visualized and plotted using PyPlot library
